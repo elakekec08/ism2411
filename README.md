@@ -26,7 +26,7 @@ python week07/functions.py
 ```
 ##Reflection 
 
-##1. 
+## 1. 
 
 315769a (HEAD -> main, origin/main, origin/HEAD) add README with module listing and run instructions
 e67eb8d add week 07 functions
@@ -35,10 +35,10 @@ e67eb8d add week 07 functions
 
 My commit history shows that I completed my work in organized steps. Each commit has a clear message explaining what I changed. If an employer saw this, they would see that I can keep track of my work and make updates in an organized way.
 
-##2.
+## 2.
 
  Using Git helps me keep track of changes I make to my code. Before this module, I would just save my work without keeping track of previous versions. Now I would make smaller changes and commit them separately so I can easily go back if something goes wrong.
 
-##3. 
+## 3. 
 
 I would add *.log to my .gitignore file because log files can be created when running programs. These files do not need to be tracked because they are temporary and are not part of my actual code.
